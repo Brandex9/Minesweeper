@@ -1,3 +1,5 @@
+            MINESWEEPER
+
 Minesweeper game with a twist!
 
 traditional rules of minesweeper with a bonus round
