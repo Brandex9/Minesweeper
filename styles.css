@@ -1,8 +1,10 @@
 :root {
+  --box-shadow: 3px 2px 2px 10px;
 }
 
 h1 {
   text-align: center;
+  text-transform: uppercase;
 }
 
 body {

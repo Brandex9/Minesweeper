@@ -1,1 +1,1 @@
-alert("Testing!");
+function state() {}
