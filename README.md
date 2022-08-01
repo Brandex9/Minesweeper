@@ -1,9 +1,11 @@
             MINESWEEPER
 
-Minesweeper game with a twist!
+Minesweeper game
 
-traditional rules of minesweeper with a bonus round
+some issues pop up when selecting squares but base logic is working
 
-bombs, spikes but added aswell is a metal detector that allows you to see anything is a 9 blockgrid.
-
-there is also included a sweepstake event.
+things to add
+-difficulties outside of random bomb amount
+-timer
+-better alerts
+better styling
