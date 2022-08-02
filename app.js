@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded", () => {
   //dynamic width for difficulty changes
   let width = 10;
   //loop bombAmount to increase difficulty. tie it to subtext to notify player the new bomb amount.
-  let bombAmount = Math.floor(Math.random() * 10) + 20;
+  let bombAmount = Math.floor(Math.random() * 5) + 20;
   bombLeft = document.querySelector(".subtext");
   bombLeft.textContent = " Bombs Left:" + "" + bombAmount;
   //ability to give moreor less flags
